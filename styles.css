@@ -1,7 +1,12 @@
-*{
+* {
     background-color: rgb(57, 61, 57);
     color: aliceblue;
     text-align: left;
+}
+div{
+    border: 10px double wheat;
+    margin: 10px;
+    padding: 10px;
 }
 h1{
     text-align: center;
@@ -20,5 +25,5 @@ ul{
     list-style: none;
 }
 ol{
-    list-style: georgian;
+    list-style: decimal;
 }
